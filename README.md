@@ -1,7 +1,7 @@
 # DigiCert Senior QA Technical Challenge
 
 ##  Project Contents:
-- `TestStrategy.md` — Test strategy document outlining the testing approach and scenarios.
+- `TestStrategy pdf file` — Test strategy document outlining the testing approach and scenarios.
 - `generate_cert.sh` or manual OpenSSL instructions — for generating certificates.
 - `src/test/resources/` — contains the test certificates:
   - `cert.pem` — Valid certificate
